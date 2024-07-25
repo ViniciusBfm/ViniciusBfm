@@ -83,7 +83,9 @@
 
 ###
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. 
+<h4 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h4>
+
+###
 
 ## Email de contato
 
