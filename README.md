@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Hard skills</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
