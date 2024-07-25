@@ -8,7 +8,9 @@
 
 ###
 
-<img align="right" height="133" src="https://i.imgflip.com/8y354x.gif"  />
+<video align="right" style="height: 133px;" autoplay loop muted>
+    <source src="https://i.imgflip.com/8y354x.gif" type="video/mp4">
+</video>
 
 ###
 
@@ -67,8 +69,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ViniciusBfm/ViniciusBfm/output/snake.svg" alt="Snake animation" />
 
 ###
 
