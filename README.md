@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h4>
+
+###
+
 <h3 align="center">Hard skills</h3>
 
 ###
@@ -51,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusBfm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusBfm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -83,10 +87,10 @@
 
 ###
 
-<h4 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h4>
+<h3 align="left">E-mail de contato</h3>
 
 ###
 
-## Email de contato
+<p align="left">vinybfm@hotmail.com</p>
 
-vinybfm@hotmail.com
+###
