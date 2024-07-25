@@ -2,13 +2,13 @@
 
 ###
 
-<img align="right" height="133" src="https://i.imgflip.com/8y354x.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusBfm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<video align="right" style="height: 133px;" autoplay loop muted>
-    <source src="https://i.imgflip.com/8y354x.gif" type="video/mp4">
-</video>
+<img align="right" height="133" src="https://i.imgflip.com/8y354x.gif"  />
 
 ###
 
