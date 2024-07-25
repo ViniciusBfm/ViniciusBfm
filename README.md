@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="center">Contatos</h3>
+<h3 align="center"> 💬 Contact</h3>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<h3 align="left">E-mail de contato</h3>
+<h3 align="left"> ✉️ E-mail</h3>
 
 ###
 
