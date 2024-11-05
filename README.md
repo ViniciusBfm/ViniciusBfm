@@ -81,7 +81,7 @@
 
 ###
 
-<div align="center">
+<div align="center" auto-play>
   <img height="133" src="https://i.imgflip.com/8y354x.gif"  />
 </div>
 
