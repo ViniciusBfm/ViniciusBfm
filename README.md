@@ -47,7 +47,7 @@ Além disso, ofereço suporte técnico, resolvendo chamados e problemas em siste
 
 ---
 
-### 📂 Projetos Recentes
+### 📂 Portfólio
 
 - **[Meu Portfólio](https://viniciusbfm.up.railway.app)**: Portfólio profissional com meus projetos de desenvolvimento.
 
