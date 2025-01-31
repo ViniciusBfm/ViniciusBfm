@@ -78,7 +78,7 @@ Além disso, ofereço suporte técnico, resolvendo chamados e problemas em siste
 
 ---
 
-### 🎥 GIF Animado (Autoplay)
+### 🎥 GIF Animado
 
 <div align="center">
   <img height="133" src="https://i.imgflip.com/8y354x.gif" />
