@@ -42,8 +42,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá, me chamo Vinicius Ferreira. Sou formado em Engenharia da Computação e, desde 2021, atuo como Desenvolvedor Full Stack e Suporte Técnico. Tenho experiência em tecnologias como HTML5, CSS3, JavaScript, React, Python, PHP, Flask, Laravel, Django e bancos de dados como SQL, MySQL, PostgreSQL e MongoDB. Crio sistemas escaláveis, otimizados e focados na experiência do usuário.
-
+Olá, me chamo Vinicius Ferreira. Sou formado em Engenharia da Computação e, desde 2021, atuo como Desenvolvedor Full Stack e Suporte Técnico.
 Além disso, ofereço suporte técnico, resolvendo chamados e problemas em sistemas corporativos, com foco na melhoria contínua dos processos.
 
 ---
