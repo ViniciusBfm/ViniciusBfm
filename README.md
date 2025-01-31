@@ -14,13 +14,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="Composer logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
@@ -39,24 +42,15 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor focado em soluções criativas para problemas complexos. Com formação em Engenharia da Computação, sou apaixonado por front-end e sempre busco melhorar a experiência do usuário. Além disso, tenho interesse em ensinar e compartilhar o que aprendo, com o objetivo de ajudar outras pessoas a crescerem na tecnologia.
+Olá, me chamo Vinicius Ferreira. Sou formado em Engenharia da Computação e, desde 2021, atuo como Desenvolvedor Full Stack e Suporte Técnico. Tenho experiência em tecnologias como HTML5, CSS3, JavaScript, React, Python, PHP, Flask, Laravel, Django e bancos de dados como SQL, MySQL, PostgreSQL e MongoDB. Crio sistemas escaláveis, otimizados e focados na experiência do usuário.
 
----
-
-### 🌱 Minhas Habilidades
-
-- **Front-end**: HTML5, CSS3, JavaScript, React, Bootstrap
-- **Back-end**: Python (Flask), PHP, MySQL, SQLite
-- **Ferramentas**: Git, GitHub, VSCode, Heroku, Jupyter, Composer
-- **Design**: Canva, Photoshop
+Além disso, ofereço suporte técnico, resolvendo chamados e problemas em sistemas corporativos, com foco na melhoria contínua dos processos.
 
 ---
 
 ### 📂 Projetos Recentes
 
-- **[Meu Portfólio](https://viniciusferreiraportfolio.netlify.app/)**: Portfólio profissional com meus projetos de desenvolvimento.
-- **[Sistema de Avaliação de Filmes](https://pegavisao.onrender.com/home)**: Uma plataforma para avaliar filmes e séries, usando React e Node.js.
-- **[Aplicativo de Tarefas](https://viniciusbfm.up.railway.app/)**: Um simples app de gerenciamento de tarefas utilizando Laravel e MySQL.
+- **[Meu Portfólio](https://viniciusbfm.up.railway.app)**: Portfólio profissional com meus projetos de desenvolvimento.
 
 ---
 
@@ -88,6 +82,6 @@ Sou um desenvolvedor focado em soluções criativas para problemas complexos. Co
 ### 🎥 GIF Animado (Autoplay)
 
 <div align="center">
-  <img height="133" src="https://i.imgflip.com/8y354x.gif" autoplay="true" />
+  <img height="133" src="https://i.imgflip.com/8y354x.gif" />
 </div>
 
