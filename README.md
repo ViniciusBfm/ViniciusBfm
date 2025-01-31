@@ -37,6 +37,29 @@
 
 ---
 
+### 👨‍💻 Sobre mim
+
+Sou um desenvolvedor focado em soluções criativas para problemas complexos. Com formação em Engenharia da Computação, sou apaixonado por front-end e sempre busco melhorar a experiência do usuário. Além disso, tenho interesse em ensinar e compartilhar o que aprendo, com o objetivo de ajudar outras pessoas a crescerem na tecnologia.
+
+---
+
+### 🌱 Minhas Habilidades
+
+- **Front-end**: HTML5, CSS3, JavaScript, React, Bootstrap
+- **Back-end**: Python (Flask), PHP, MySQL, SQLite
+- **Ferramentas**: Git, GitHub, VSCode, Heroku, Jupyter, Composer
+- **Design**: Canva, Photoshop
+
+---
+
+### 📂 Projetos Recentes
+
+- **[Meu Portfólio](https://viniciusferreiraportfolio.netlify.app/)**: Portfólio profissional com meus projetos de desenvolvimento.
+- **[Sistema de Avaliação de Filmes](https://pegavisao.onrender.com/home)**: Uma plataforma para avaliar filmes e séries, usando React e Node.js.
+- **[Aplicativo de Tarefas](https://viniciusbfm.up.railway.app/)**: Um simples app de gerenciamento de tarefas utilizando Laravel e MySQL.
+
+---
+
 ### 💬 Contatos
 
 <div align="center">
@@ -62,7 +85,9 @@
 
 ---
 
+### 🎥 GIF Animado (Autoplay)
+
 <div align="center">
-  <img src="https://i.imgflip.com/8y354x.gif" height="133" alt="GIF animado" />
+  <img height="133" src="https://i.imgflip.com/8y354x.gif" autoplay="true" />
 </div>
 
